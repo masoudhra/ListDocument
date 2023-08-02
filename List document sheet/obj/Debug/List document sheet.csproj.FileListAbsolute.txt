@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\List document sheet\List document sheet\bin\Debug\List document sheet.exe.config
+C:\Users\user\source\repos\List document sheet\List document sheet\bin\Debug\List document sheet.exe
+C:\Users\user\source\repos\List document sheet\List document sheet\bin\Debug\List document sheet.pdb
+C:\Users\user\source\repos\List document sheet\List document sheet\obj\Debug\List document sheet.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\List document sheet\List document sheet\obj\Debug\List document sheet.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\List document sheet\List document sheet\obj\Debug\List document sheet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\List document sheet\List document sheet\obj\Debug\List document sheet.exe
+C:\Users\user\source\repos\List document sheet\List document sheet\obj\Debug\List document sheet.pdb
